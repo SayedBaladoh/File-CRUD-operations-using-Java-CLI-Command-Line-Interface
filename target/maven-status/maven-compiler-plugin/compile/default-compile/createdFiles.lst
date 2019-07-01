@@ -1,0 +1,8 @@
+com\sayedbaladoh\gi\service\BookService.class
+com\sayedbaladoh\gi\service\ViewerServiceImpl.class
+com\sayedbaladoh\gi\connection\FileConnection.class
+com\sayedbaladoh\gi\controller\BookController.class
+com\sayedbaladoh\gi\service\BookServiceImpl.class
+com\sayedbaladoh\gi\BooksDBCliApplication.class
+com\sayedbaladoh\gi\model\Book.class
+com\sayedbaladoh\gi\service\ViewerService.class
