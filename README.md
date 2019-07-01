@@ -548,7 +548,7 @@ Choose [1-9]: 8
 Library saved.
 ```
 
-The following is a sample of the *second* session of the application may look like:
+The following is a sample of the **second** session of the application may look like:
 
 ```bash
 java -jar .\books-cli-0.1.0.jar
