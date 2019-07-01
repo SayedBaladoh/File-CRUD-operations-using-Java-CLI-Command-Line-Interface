@@ -12,7 +12,7 @@ Simple application that maintains a database of books stored in text files. The 
 The project follows the MVC architectural style. 
 
 ## Technologies
-This project is created using *Java native* code:
+This project is created using **Java native code**:
 
 1. Java 8
 2. Maven Dependency Management	
@@ -30,19 +30,19 @@ You need to install the following software:
 ### Developing Steps
 The developing steps for this project:
 	
-**Step 1.** Create a Java Maven project.
+**Step 1.** Create a *Java Maven* project.
 
-**Step 2.** Add well-naming packages.
+**Step 2.** Add well-naming *packages*.
 
-**Step 3.** Add a FileConnection Class that create a file *books.text* at the current user home directory if it is not exist or return it if it exists.
+**Step 3.** Add a *FileConnection* Class that create file *books.text* at the current user home directory if it is not exist or return it if it exists.
 
-**Step 4.** Create a domain class Book.
+**Step 4.** Create a domain class *Book*.
 
-**Step 5.** Create a BookService interface and BookServiceImpl class for Book operations.
+**Step 5.** Create a *BookService* interface and *BookServiceImpl* class for Book operations.
 
-**Step 6.** Create a ViewerService interface and ViewerServiceImpl class for CLI functions.
+**Step 6.** Create a *ViewerService* interface and *ViewerServiceImpl* class for CLI functions.
 
-**Step 7.** Create a BookController class for routing and navigation between different book manager options.
+**Step 7.** Create a *BookController* class for routing and navigation between different book manager options.
 
 **Step 8.** Test and debug every functions. 
  
@@ -69,13 +69,13 @@ To run this project, install it locally as follow:
 	In the command line go to your executable jar into the *target* directory. Then execute the following command:
 	
 	```bash
-	cd solution_directory
+	cd project_directory
 	java -jar target/books-cli-0.1.0.jar
 	```
 	
 ## Running the CLI exemples
 
-	The following is a sample of the first session of the application may look like:
+The following is a sample of the **first** session of the application may look like:
 
 ```bash
 java -jar .\books-cli-0.1.0.jar
@@ -548,7 +548,7 @@ Choose [1-9]: 8
 Library saved.
 ```
 
-	The following is a sample of the second session of the application may look like:
+The following is a sample of the *second* session of the application may look like:
 
 ```bash
 java -jar .\books-cli-0.1.0.jar
